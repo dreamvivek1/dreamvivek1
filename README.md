@@ -26,7 +26,7 @@
 		</a>
 	</code>
 	<code>
-		<a style="text-decoration: none" href="https://www.codechef.com/users/dreamvivek6" target="_blank">
+		<a style="text-decoration: none" href="https://www.codechef.com/users/dreamvivek1" target="_blank">
 			<img
 				src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4"
 				alt="html5"
